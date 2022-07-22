@@ -1,0 +1,8 @@
+{
+  "name": "norwegian-readable-id-generator",
+  "version": "1.0.0",
+  "description": "Creates a random sentence in norwegian in the format: adjective-noun-verb",
+  "main": "index.js",
+  "author": "Kent Are Torvik (https://kentare.no)",
+  "license": "ISC"
+}
