@@ -3,6 +3,12 @@
   "version": "1.0.0",
   "description": "Creates a random sentence in norwegian in the format: adjective-noun-verb",
   "main": "index.js",
+  "repository": "https://github.com/kentare/norwegian-readable-id-generator",
   "author": "Kent Are Torvik (https://kentare.no)",
+  "keywords": [
+    "Norway",
+    "Word generation",
+    "ID generation"
+  ],
   "license": "ISC"
 }
